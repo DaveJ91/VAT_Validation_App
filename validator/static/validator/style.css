@@ -1,0 +1,13 @@
+body {
+    background-color: bisque;
+}
+.container {
+    margin: 100px 200px;
+    background-color:lightblue;
+    width: 800px;
+    padding: 20px 50px;
+}
+
+#file-upload-box {
+    width: 600px;
+}
